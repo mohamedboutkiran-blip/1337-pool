@@ -36,7 +36,7 @@ unsigned int ft_strlcat(char *dest, char *src, unsigned int size)
 
 //int main()
 //{
-	//char destination[100] = "hello-_-";
+	//char destination[100] = "hello-_- ";
 	//unsigned int s = ft_strlcat(destination ,"worled-[]-",10);
 	//printf("%s \n", destination);
 	//printf("%d \n", s);
