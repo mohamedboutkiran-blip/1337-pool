@@ -88,6 +88,6 @@ int ft_atoi_base(char *str, char *base)
 
 //int main()
 //{
-	//int x = ft_atoi_base("111111111111111111111111111111111111111111111111111111111111", "01");
+	//int x = ft_atoi_base("1111101010", "01");
 	//printf("%d \n", x);
 //}
