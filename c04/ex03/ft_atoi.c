@@ -35,6 +35,6 @@ int ft_atoi(char *str){
 
 //int main()
 //{
-    //int x = ft_atoi("  \n\t--+-+--1002ascii99");
+    //int x = ft_atoi("   \n\t--+-+--1002ascii99");
     //printf("%d \n", x);
 //}
