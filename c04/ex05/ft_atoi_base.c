@@ -1,4 +1,4 @@
-#include<stdio.h>
+//#include<stdio.h>
 int ft_strlen(char *str) // bach an7asb tighzi
 {
 	int length;
@@ -86,8 +86,8 @@ int ft_atoi_base(char *str, char *base)
 	return(result*signe);
 }
 
-int main()
-{
-	int x = ft_atoi_base("111111111111111111111111111111111111111111111111111111111111", "01");
-	printf("%d \n", x);
-}
+//int main()
+//{
+	//int x = ft_atoi_base("111111111111111111111111111111111111111111111111111111111111", "01");
+	//printf("%d \n", x);
+//}

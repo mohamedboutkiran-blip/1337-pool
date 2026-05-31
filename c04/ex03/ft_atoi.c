@@ -1,4 +1,4 @@
-#include<stdio.h>
+//#include<stdio.h>
 int ft_atoi(char *str){
     int i;
     int signe;
@@ -33,8 +33,8 @@ int ft_atoi(char *str){
     return (signe*result);
 }
 
-int main()
-{
-    int x = ft_atoi("  \n\t--+-+--1002ascii99");
-    printf("%d \n", x);
-}
+//int main()
+//{
+    //int x = ft_atoi("  \n\t--+-+--1002ascii99");
+    //printf("%d \n", x);
+//}
